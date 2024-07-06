@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6685f7a11be6aed34af4a26f"
+  },
+  "pd_code": "P001",
+  "pd_ct_id": {
+    "$oid": "6685f7691be6aed34af4a267"
+  },
+  "pd_name": "Product 1",
+  "pd_price": 500,
+  "createdAt": {
+    "$date": "2024-07-04T01:15:13.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T04:28:16.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6685f8391be6aed34af4a27a"
+  },
+  "pd_code": "P003",
+  "pd_ct_id": {
+    "$oid": "6685f7711be6aed34af4a269"
+  },
+  "pd_name": "Product 3",
+  "pd_price": 999,
+  "createdAt": {
+    "$date": "2024-07-04T01:17:45.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T04:28:08.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66862ab9ac696beed06d05db"
+  },
+  "pd_code": "P002",
+  "pd_name": "Product 2",
+  "pd_price": 120,
+  "createdAt": {
+    "$date": "2024-07-04T04:53:13.961Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T04:53:13.961Z"
+  },
+  "__v": 0
+}]

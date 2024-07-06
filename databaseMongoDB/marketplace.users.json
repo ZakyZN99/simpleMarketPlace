@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6685524bcf82d27324a8116b"
+  },
+  "us_name": "Jane Doe",
+  "us_password": "password456",
+  "us_email": "janedoe@example.com",
+  "us_phone_number": "+0987654321",
+  "us_address": "456 Elm St, Anytown, USA",
+  "createdAt": {
+    "$date": "2024-07-03T13:29:47.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-03T13:29:47.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668609f4fb4147362342645f"
+  },
+  "us_name": "Zaky",
+  "us_password": "$2b$10$9lfH6TDPlcWeL02XqyRCPOTsuPm1XH1GI8PfdWQZg0vX/4arX4Fo.",
+  "us_email": "zakyzn@gmail.com",
+  "us_phone_number": "085123456789",
+  "us_address": "bali",
+  "token": [
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Njg2MDlmNGZiNDE0NzM2MjM0MjY0NWYiLCJ1c19uYW1lIjoiWmFreSIsInVzX2VtYWlsIjoiemFreXpuQGdtYWlsLmNvbSIsInVzX3Bob25lX251bWJlciI6IjA4NTEyMzQ1Njc4OSIsInVzX2FkZHJlc3MiOiJiYWxpIiwidG9rZW4iOltdLCJjcmVhdGVkQXQiOiIyMDI0LTA3LTA0VDAyOjMzOjI0LjUwN1oiLCJ1cGRhdGVkQXQiOiIyMDI0LTA3LTA0VDAyOjU0OjE1LjU1OVoiLCJfX3YiOjAsImlhdCI6MTcyMDA2NTgzN30.xVtPzt2BvTrBHeOKemistPs3FoSSA3mpvJKsVX3HRL4",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Njg2MDlmNGZiNDE0NzM2MjM0MjY0NWYiLCJ1c19uYW1lIjoiWmFreSIsInVzX2VtYWlsIjoiemFreXpuQGdtYWlsLmNvbSIsInVzX3Bob25lX251bWJlciI6IjA4NTEyMzQ1Njc4OSIsInVzX2FkZHJlc3MiOiJiYWxpIiwidG9rZW4iOlsiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmZhV1FpT2lJMk5qZzJNRGxtTkdaaU5ERTBOek0yTWpNME1qWTBOV1lpTENKMWMxOXVZVzFsSWpvaVdtRnJlU0lzSW5WelgyVnRZV2xzSWpvaWVtRnJlWHB1UUdkdFlXbHNMbU52YlNJc0luVnpYM0JvYjI1bFgyNTFiV0psY2lJNklqQTROVEV5TXpRMU5qYzRPU0lzSW5WelgyRmtaSEpsYzNNaU9pSmlZV3hwSWl3aWRHOXJaVzRpT2x0ZExDSmpjbVZoZEdWa1FYUWlPaUl5TURJMExUQTNMVEEwVkRBeU9qTXpPakkwTGpVd04xb2lMQ0oxY0dSaGRHVmtRWFFpT2lJeU1ESTBMVEEzTFRBMFZEQXlPalUwT2pFMUxqVTFPVm9pTENKZlgzWWlPakFzSW1saGRDSTZNVGN5TURBMk5UZ3pOMzAueFZ0UHp0MkJ2VHJCSGVPS2VtaXN0UHMzRm9TU0EzbXB2SktzVlgzSFJMNCJdLCJjcmVhdGVkQXQiOiIyMDI0LTA3LTA0VDAyOjMzOjI0LjUwN1oiLCJ1cGRhdGVkQXQiOiIyMDI0LTA3LTA0VDA0OjAzOjU3Ljc4MFoiLCJfX3YiOjAsImlhdCI6MTcyMDA3MDIxNn0.0UvwELYM9XcbwIA_iZUAbpNjYM4p0IH4ljluKAnrjjA"
+  ],
+  "createdAt": {
+    "$date": "2024-07-04T02:33:24.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T05:16:56.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66860add334e83a5d2c9f99c"
+  },
+  "us_name": "Zaky",
+  "us_password": "$2b$10$2exlUV8z6qLlngUczvlyfu1uxZTAHFqoBKVY.mV6fvpB4Cd6HXX2.",
+  "us_email": "zakyzn1@gmail.com",
+  "us_phone_number": "085123456789",
+  "us_address": "bali",
+  "token": [],
+  "createdAt": {
+    "$date": "2024-07-04T02:37:17.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T02:37:17.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66861ebce19301f82e9f8127"
+  },
+  "us_name": "Test1234",
+  "us_password": "$2b$10$EIVu5wbC87o/n6Ulr2CrJ.Z4N0mwS6Rnf8bMEPWuCyHdAMuoW39Ti",
+  "us_email": "1234@gmail.com",
+  "us_phone_number": "12345678",
+  "us_address": "asfgfdgsfd",
+  "token": [],
+  "createdAt": {
+    "$date": "2024-07-04T04:02:04.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-04T04:02:04.816Z"
+  },
+  "__v": 0
+}]
